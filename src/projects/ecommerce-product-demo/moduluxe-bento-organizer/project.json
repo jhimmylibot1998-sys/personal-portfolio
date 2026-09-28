@@ -1,0 +1,15 @@
+{
+  "id": "moduluxe-bento-organizer",
+  "slug": "moduluxe-bento-organizer",
+  "number": "01",
+  "title": "ModuLuxe Bento Prep Box",
+  "category": "E-Commerce Product Demo",
+  "categorySlug": "ecommerce-product-demo",
+  "featured": true,
+  "description": "Stop-motion & fluid commercial demonstrating modular bento snack organization, fresh fruit sorting, and seamless refrigerator storage.",
+  "client": "ModuLuxe Home Goods",
+  "year": "2026",
+  "duration": "15s Product Demo",
+  "tools": ["Kling AI", "Runway Gen-3", "Topaz Video AI", "Blender"],
+  "overview": "Produced a clean, satisfying product interaction video showing fresh blueberries, strawberries, and almonds being sorted into partitioned container compartments and stacked in a refrigerator."
+}

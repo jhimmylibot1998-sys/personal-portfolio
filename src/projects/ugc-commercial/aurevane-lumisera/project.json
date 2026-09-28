@@ -1,0 +1,15 @@
+{
+  "id": "aurevane-lumisera",
+  "slug": "aurevane-lumisera",
+  "number": "01",
+  "title": "Aurevane Lumisera Serum",
+  "category": "UGC & Commercial",
+  "categorySlug": "ugc-commercial",
+  "featured": true,
+  "description": "Authentic AI-generated beauty and skincare testimonial commercial showcasing natural morning lighting, real creator pacing, and dewy radiant skin glow.",
+  "client": "Aurevane Skincare",
+  "year": "2026",
+  "duration": "15s UGC Social Ad",
+  "tools": ["Runway Gen-3", "ElevenLabs Voice", "Midjourney v6", "DaVinci Resolve"],
+  "overview": "Created an authentic, high-converting vertical UGC video advertisement featuring a natural beauty creator demonstrating the Lumisera facial serum, highlighting skin texture and immediate radiant glow."
+}

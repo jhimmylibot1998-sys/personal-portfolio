@@ -1,0 +1,15 @@
+{
+  "id": "ai-operational-backbone",
+  "slug": "ai-operational-backbone",
+  "number": "01",
+  "title": "AI Operational Backbone",
+  "category": "Intelligent Automation",
+  "categorySlug": "intelligent-automation",
+  "featured": true,
+  "description": "Automated production workflows connecting AI models, brief intake forms, CRM, and real-time asset delivery pipelines.",
+  "client": "Vanguard Media Group",
+  "year": "2026",
+  "duration": "Autonomous Workflow",
+  "tools": ["Make", "n8n", "Gemini API", "Airtable", "Webhooks"],
+  "overview": "Architected an automated multi-branch operational backbone for a creative studio to eliminate manual handoffs between client brief and production kickoff."
+}

@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Jimmy Libot — AI Video & Automation Specialist</title>
+    <script>
+      const base = '/personal-portfolio/';
+      const requested = window.location.pathname.startsWith(base)
+        ? window.location.pathname.slice(base.length) + window.location.search + window.location.hash
+        : '';
+      if (requested) sessionStorage.setItem('github-pages-redirect', requested);
+      window.location.replace(base);
+    </script>
+  </head>
+  <body></body>
+</html>

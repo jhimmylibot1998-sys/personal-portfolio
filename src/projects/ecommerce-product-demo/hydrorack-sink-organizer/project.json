@@ -1,0 +1,15 @@
+{
+  "id": "hydrorack-sink-organizer",
+  "slug": "hydrorack-sink-organizer",
+  "number": "02",
+  "title": "HydroRack Sink System",
+  "category": "E-Commerce Product Demo",
+  "categorySlug": "ecommerce-product-demo",
+  "featured": false,
+  "description": "High-energy e-commerce motion ad demonstrating expandable over-the-sink colander functionality, vegetable washing, and quick-dry dish draining.",
+  "client": "Apex Kitchenware",
+  "year": "2026",
+  "duration": "15s DTC Video Ad",
+  "tools": ["Luma Dream Machine", "Runway Gen-3", "After Effects", "DaVinci"],
+  "overview": "Crafted a fast-paced Amazon and TikTok DTC video highlighting the 'Prep · Rinse · Drain' workflow with running tap water, fresh produce, and draining glassware."
+}

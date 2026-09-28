@@ -1,0 +1,15 @@
+{
+  "id": "nexus-digital-runway",
+  "slug": "nexus-digital-runway",
+  "number": "03",
+  "title": "NEXUS Digital Fashion Reels",
+  "category": "UGC & Commercial",
+  "categorySlug": "ugc-commercial",
+  "featured": false,
+  "description": "Short-form AI video production system generating episodic digital fashion and lifestyle reels at massive velocity without sacrificing artistic direction.",
+  "client": "NEXUS Digital Runway",
+  "year": "2026",
+  "duration": "60+ Episodic Reels",
+  "tools": ["Kling AI", "Pika 2.0", "Claude 3.7", "ElevenLabs"],
+  "overview": "Engineered an end-to-end rapid video production pipeline transforming fashion moodboards into choreographed vertical video series for Instagram and TikTok."
+}

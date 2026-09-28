@@ -1,0 +1,15 @@
+{
+  "id": "cinematic-commercial",
+  "slug": "cinematic-commercial",
+  "number": "03",
+  "title": "Aura Hypercar Cinematic Spot",
+  "category": "AI Video",
+  "categorySlug": "ai-video",
+  "featured": false,
+  "description": "AI-generated cinematic advertising content engineered for luxury electric mobility and design brands, leveraging neural camera control and custom loras.",
+  "client": "Aura Electric Mobility",
+  "year": "2026",
+  "duration": "45s Commercial Spot",
+  "tools": ["Runway Gen-3", "Midjourney v6", "Topaz Video AI", "DaVinci Resolve"],
+  "overview": "Conceived and directed a premier 45-second speculative commercial for an aerodynamic luxury electric hypercar set in a glass-architecture metropolis."
+}

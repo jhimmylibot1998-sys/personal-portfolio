@@ -1,0 +1,15 @@
+{
+  "id": "olaplex-bonding-oil",
+  "slug": "olaplex-bonding-oil",
+  "number": "02",
+  "title": "Olaplex Nº.7 Bonding Oil",
+  "category": "AI Video",
+  "categorySlug": "ai-video",
+  "featured": false,
+  "description": "Hyper-detailed macro beauty commercial showing amber fluid droplet dynamics, liquid surface tension, and instant hair strand smoothing.",
+  "client": "Olaplex Studio",
+  "year": "2026",
+  "duration": "15s Macro Commercial",
+  "tools": ["Runway Gen-3", "Midjourney v6", "Blender AI", "DaVinci Resolve"],
+  "overview": "Engineered a hyper-sensory macro video of a golden viscous oil drop descending onto silky caramel hair strands, capturing restorative gloss and fiber nourishment."
+}

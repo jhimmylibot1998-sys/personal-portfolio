@@ -1,0 +1,15 @@
+{
+  "id": "content-automation-engine",
+  "slug": "content-automation-engine",
+  "number": "02",
+  "title": "Autonomous Content Studio",
+  "category": "Intelligent Automation",
+  "categorySlug": "intelligent-automation",
+  "featured": false,
+  "description": "Autonomous AI-powered content generation, thumbnail rendering, metadata tagging, and programmatic multi-platform distribution.",
+  "client": "HyperScale Studios",
+  "year": "2026",
+  "duration": "24/7 Engine",
+  "tools": ["Claude 3.7", "Python", "FFmpeg", "Zapier", "YouTube API"],
+  "overview": "Designed an automated publishing studio that converts long-form podcasts and video transcripts into viral short clips, automated chapters, and social copy."
+}

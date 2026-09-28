@@ -1,0 +1,15 @@
+{
+  "id": "sartorial-heritage-shoes",
+  "slug": "sartorial-heritage-shoes",
+  "number": "01",
+  "title": "Sartorial Heritage Shoes",
+  "category": "AI Video",
+  "categorySlug": "ai-video",
+  "featured": true,
+  "description": "Cinematic commercial celebrating artisan full-grain leather dress shoes, golden hour architectural footwork, and macro stitching details.",
+  "client": "Veloce Heritage Footwear",
+  "year": "2026",
+  "duration": "30s Brand Spot",
+  "tools": ["Runway Gen-3", "Midjourney v6", "Topaz AI", "DaVinci Resolve"],
+  "overview": "Created an editorial commercial film emphasizing craftsmanship, genuine leather texture, and all-day city comfort against golden hour metropolis backdrops."
+}
